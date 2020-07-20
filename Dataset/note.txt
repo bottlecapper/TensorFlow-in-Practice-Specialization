@@ -1,0 +1,48 @@
+Tensorflow datasets:
+https://www.tensorflow.org/datasets/catalog/overview
+
+
+Rock-Paper-Scissors dataset (created by CGI)
+http://www.laurencemoroney.com/rock-paper-scissors-dataset/
+
+Training:
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps.zip
+
+Testing:
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/rps-test-set.zip
+
+Sign Language dataset (hand sign for A-K)
+https://www.kaggle.com/datamunge/sign-language-mnist
+
+Sarcasm in News Headlines Dataset by Rishabh Misra
+https://rishabhmisra.github.io/publications/
+
+IMDB review
+http://ai.stanford.edu/~amaas/data/sentiment/
+
+Embedding Projector
+http://projector.tensorflow.org/
+
+Laurence's poetry
+https://storage.googleapis.com/laurencemoroney-blog.appspot.com/irish-lyrics-eof.txt
+
+Text generation with an RNN
+https://www.tensorflow.org/tutorials/text/text_generation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
