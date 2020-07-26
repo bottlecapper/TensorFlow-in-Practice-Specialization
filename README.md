@@ -69,4 +69,24 @@ S+P_Week_2_Exercise: windowed_dataset, forecast
 
 S+P_Week_2_Lesson_1: tf.data.Dataset.range(10), dataset.window, dataset.flat_map, dataset.map, dataset.shuffle, dataset.batch
 
+S+P_Week_2_Lesson_2: windowed_dataset, forecast
+
+S+P_Week_2_Lesson_3: windowed_dataset, tf.keras.callbacks.LearningRateScheduler, forecast[split_time-window_size:]
+
+S+P_Week_3_Exercise: tf.keras.backend.clear_session(), tf.keras.layers.Lambda, Bidirectional, Bidirectional, Dense, Lambda
+
+S+P_Week_3_Lesson_2_RNN: tf.keras.layers.Lambda, SimpleRNN, SimpleRNN, Dense, Lambda, plt.figure(figsize=(10, 6))
+
+S+P_Week_3_Lesson_4_LSTM: tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32, return_sequences=True)), tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32))
+
+S+P_Week_4_Exercise: daily-min-temperatures.csv, csv.reader, model_forecast, tf.keras.layers.Conv1D, LSTM, LSTM, Dense, Dense, Dense, Lambda, plt.semilogx
+
+S+P_Week_4_Lesson_1: tf.keras.layers.Conv1D, Bidirectional(LSTM), Bidirectional(LSTM), Dense, Lambda, tf.keras.losses.Huber, mean_absolute_error
+
+S+P_Week_4_Lesson_3: sunspots.csv, tf.keras.layers.Dense, Dense, Dense, loss="mse"
+
+S+P_Week_4_Lesson_5: sunspots.csv, windowed_datasettf.keras.layers.Conv1D, LSTM, LSTM, Dense, Dense, Dense, Lambda, plt.semilogx, windowed_dataset, model_forecast
+
+S+P_Week_1_Exercise: plot_series, time = np.arange(4 * 365 + 1, dtype="float32"), mean_squared_error, mean_absolute_error, moving_average_forecast, diff_moving_avg_plus_past, diff_moving_avg_plus_smooth_past, series = baseline + trend + seasonality + noise
+
 
