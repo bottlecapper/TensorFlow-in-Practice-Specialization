@@ -21,3 +21,12 @@ Exercise_2_Cats_vs_Dogs_using_augmentation: cats-and-dogs, os.mkdir, split_data
 
 Course_3_Week_1_Exercise: Tokenizer, pad_sequences, stopwords, csv_reader, tokenizer.fit_on_texts, tokenizer.word_index, tokenizer.texts_to_sequences, pad_sequences
 
+Course_3_Week_1_Lesson_2: Tokenizer, pad_sequences, tokenizer.fit_on_texts, tokenizer.word_index, tokenizer.texts_to_sequences
+
+Course_3_Week_1_Lesson_3: json.load, oov_token="<OOV>"
+  
+Course_3_Week_2_Exercise: train_padded, validation_padded, training_label_seq, validation_label_seq, tf.keras.layers.Embedding, tf.keras.layers.GlobalAveragePooling1D, tf.keras.layers.Dense, sparse_categorical_crossentropy, plot_graphs, decode_sentence, get_weights, out_m.write, out_v.write, vecs.tsv, meta.tsv
+
+Course_3_Week_2_Lesson_1: tfds.load, imdb_reviews, trunc_type, decode_review, binary_crossentropy, test (tokenizer.texts_to_sequences)
+
+Course_3_Week_2_Lesson_2: padding_type, decode_sentence, get_weights, test (tokenizer.texts_to_sequences)
