@@ -59,5 +59,14 @@ NLP_Course_Week_3_Exercise: training_cleaned.csv, csv.reader, glove.6B.100d.txt,
 
 NLP_Week4_Exercise_Shakespeare: sonnets.txt, ku.to_categorical, model.add(Embedding), Bidirectional(LSTM), Dropout, LSTM, test (seed_text)
 
+S+P_Week_1_Lesson_2: plot_series, trend, seasonal_pattern, seasonality, series = baseline + trend + seasonality, white_noise, split_time, autocorrelation, impulses, series_diff, autocorrelation_plot, ARIMA, pd.read_csv, series.autocorr
+
+S+P_Week_1_Lesson_3: plot_series, trend, seasonal_pattern, seasonality, noise, naive_forecast, mean_squared_error, mean_absolute_error, moving_average_forecast, diff_moving_avg_plus_past
+
+S+P_Week_1_Lesson_3: diff_moving_avg_plus_smooth_past
+
+S+P_Week_2_Exercise: windowed_dataset, forecast
+
+S+P_Week_2_Lesson_1: tf.data.Dataset.range(10), dataset.window, dataset.flat_map, dataset.map, dataset.shuffle, dataset.batch
 
 
