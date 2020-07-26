@@ -25,7 +25,7 @@ Exercise_3_Horses_vs_humans_using_Transfer_Learning: InceptionV3, path_inception
 
 Exercise_4_Multi_class_classifier: csv.reader, get_data, np.expand_dims, train_datagen.flow, validation_datagen.flow
 
-Course_3_Week_1_Exercise: Tokenizer, pad_sequences, stopwords, csv_reader, tokenizer.fit_on_texts, tokenizer.word_index, tokenizer.texts_to_sequences, pad_sequences
+Course_3_Week_1_Exercise: bbc-text, Tokenizer, pad_sequences, stopwords, csv_reader, tokenizer.fit_on_texts, tokenizer.word_index, tokenizer.texts_to_sequences, pad_sequences
 
 Course_3_Week_1_Lesson_2: Tokenizer, pad_sequences, tokenizer.fit_on_texts, tokenizer.word_index, tokenizer.texts_to_sequences
 
